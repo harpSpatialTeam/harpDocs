@@ -11,4 +11,7 @@
 - Try to have each operation called separately. This keeps the code clean.
 - tbc 
 
+#### A suggestion to have a description of the important data structurs expected as an output from some function.
+#### Add a development step which is call quality controle of the code. Does it follow tha standard or not. spcially for interfaced and returned objcts.
+
 
